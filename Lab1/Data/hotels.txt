@@ -1,0 +1,1000 @@
+1	Pocalla Springs Resort	36	0
+2	Bed & Breakfast Of Greensburg	158	0
+3	Radisson-Denver North	43	0
+4	Evergreen Inn	155	11
+5	Site Line	99	0
+6	Cendant Motel	8	0
+7	Greenwood Acres Campground	84	0
+8	Greenwood Acres Campground	85	57
+9	Village By The Sea	5	0
+10	Christopher J.Jalbert	67	38
+11	Courtyard-Boston Waltham	32	48
+12	Radisson-Denver North	163	28
+13	Chris Hicks	88	0
+14	Pocalla Springs Resort	26	0
+15	Hadlock Motel	153	57
+16	MBI Benefits	152	39
+17	Camp Crystal Lake	22	0
+18	Museum Of The Southern Jewish	43	0
+19	Newport City Motel	153	0
+20	Pelican Lake Campground Llc	169	19
+21	Carolyn H.Bullock	164	45
+22	Thousand Trails-naco	159	0
+23	Wildhurst Campgrounds	147	33
+24	Lion Inn	80	40
+25	Wooded Acres Campground	73	0
+26	Hadlock Motel	174	0
+27	Mountain Inn & Suites	117	0
+28	Hadlock Motel	53	8
+29	Bay Shore Inn	105	0
+30	Christopher J.Jalbert	108	0
+31	Wawaloam Reservation Inc	55	7
+32	MBI Benefits	25	0
+33	Best Western-Orlando E	135	32
+34	Holiday Inn Express Hotel & Suites	34	55
+35	Eggery Inn	111	11
+36	Heart Seed Inn & Spa	12	0
+37	Cendant Motel	53	0
+38	Dan Dee Cabins	90	0
+39	Greenwood Acres Campground	171	0
+40	Pelican Lake Campground Llc	9	0
+41	Irelands Rustic Lodge	27	25
+42	Mark McNutt	1	0
+43	Newport City Motel	88	28
+44	Camp Crystal Lake	38	35
+45	Tower Motel	32	26
+46	Stanley Hotel	39	50
+47	Coney Island Usa	24	0
+48	Foothills Inn	79	0
+49	Mike Schell Domains For Sale	79	17
+50	Stanley Hotel	42	0
+51	Schooner Creek Resort	145	0
+52	Heart Seed Inn & Spa	165	0
+53	All Seasons Resort	20	0
+54	Manhattan Youth Recreation And Resources Inc	148	0
+55	Manhattan Youth Recreation And Resources Inc	172	21
+56	All Seasons Resort	152	0
+57	Don Trone	120	28
+58	Wawaloam Reservation Inc	73	0
+59	Mountain Inn & Suites	103	39
+60	Courtyard-Boston Waltham	152	0
+61	Keywest Harbor Inn	145	0
+62	Colorado Trails Ranch	147	0
+63	Happy Days Campground	105	0
+64	Birmingham Emmaus	122	8
+65	Lakehill: Shelties Of Distinction	133	40
+66	Hanging Rock State Park	76	43
+67	Red Roof Inn-Milwaukee	98	20
+68	Irelands Rustic Lodge	119	0
+69	Stoneleigh Hotel & Spa	90	0
+70	Bay Shore Inn	172	32
+71	Darrah House	94	3
+72	Best Western-Orlando E	152	21
+73	Friendship 7 Motel	126	11
+74	Camp Crystal Lake	20	0
+75	Warwick Denver Hotel	48	0
+76	Carolyn H.Bullock	43	0
+77	Dan Dee Cabins	51	0
+78	Amity Rose Bed & Breakfast	39	0
+79	Amity Rose Bed & Breakfast	104	0
+80	Eggery Inn	84	40
+81	Tomlinson Black Realtors	88	0
+82	Jessica Fore	96	25
+83	Lakehill: Shelties Of Distinction	102	18
+84	Pelican Lake Campground Llc	15	0
+85	Stanley Hotel	12	0
+86	Anaheim Online Hotel Group	116	26
+87	Marion	71	0
+88	Chris Hicks	125	0
+89	Camp Crystal Lake	74	17
+90	Alexander Hamilton House	86	0
+91	Jessica Fore	110	0
+92	Stoneleigh Hotel & Spa	89	0
+93	Newport City Motel	154	0
+94	Keywest Harbor Inn	93	0
+95	Evergreen Inn	114	0
+96	Red Roof Inn-Milwaukee	64	48
+97	Mike Schell Domains For Sale	127	35
+98	All Seasons Resort	106	12
+99	Irelands Rustic Lodge	99	0
+100	Jessica Fore	109	11
+101	Alexander Hamilton House	135	32
+102	Mark McNutt	52	0
+103	Camp Crystal Lake	89	0
+104	Amity Rose Bed & Breakfast	38	27
+105	Warwick Denver Hotel	63	0
+106	Mark McNutt	14	0
+107	Stoneleigh Hotel & Spa	73	55
+108	Village By The Sea	3	18
+109	Camp Selah	82	35
+110	Holiday Inn Express Hotel & Suites	58	0
+111	Angler Motel	114	38
+112	Village By The Sea	17	53
+113	Manhattan Youth Recreation And Resources Inc	2	20
+114	Manhattan Youth Recreation And Resources Inc	57	0
+115	Mike Schell Domains For Sale	110	0
+116	Hummer House	143	0
+117	Ebersole Environmental Edctn	41	0
+118	Amity Rose Bed & Breakfast	15	0
+119	Lion Inn	65	0
+120	Museum Of The Southern Jewish	91	0
+121	Friendship 7 Motel	83	0
+122	Carolyn H.Bullock	109	0
+123	Lakehill: Shelties Of Distinction	149	0
+124	Bay Shore Inn	124	7
+125	Stoneleigh Hotel & Spa	36	0
+126	Hanging Rock State Park	101	28
+127	Carolyn H.Bullock	22	33
+128	Pelican Lake Campground Llc	62	43
+129	Angler Motel	14	0
+130	Alan Stitzer	50	12
+131	Tumble Hill Campground	109	0
+132	All Seasons Resort	56	15
+133	Radisson-Denver North	168	8
+134	Mark McNutt	107	0
+135	Econo Lodge-East Port	143	0
+136	Tomlinson Black Realtors	129	0
+137	Coney Island Usa	36	21
+138	Hanging Rock State Park	14	0
+139	Irelands Rustic Lodge	20	0
+140	Pelican Lake Campground Llc	79	2
+141	Mark McNutt	79	2
+142	Darrah House	93	8
+143	Newport City Motel	42	53
+144	Museum Of The Southern Jewish	170	0
+145	Bed & Breakfast Of Greensburg	45	0
+146	Village By The Sea	43	15
+147	Lakehill: Shelties Of Distinction	38	0
+148	Evergreen Inn	15	0
+149	Angler Motel	53	0
+150	Lakehill: Shelties Of Distinction	142	0
+151	Amity Rose Bed & Breakfast	93	0
+152	Bay Shore Inn	126	0
+153	Site Line	150	55
+154	Foothills Inn	30	0
+155	Manhattan Youth Recreation And Resources Inc	52	0
+156	Marion	77	22
+157	Lakehill: Shelties Of Distinction	62	0
+158	Eden Valley Guest Ranch	164	23
+159	Econo Lodge-East Port	133	56
+160	Hanging Rock State Park	42	0
+161	Angler Motel	37	0
+162	Irelands Rustic Lodge	156	22
+163	Site Line	81	8
+164	All Seasons Resort	172	1
+165	Vegas Hotel Casinos Online	117	0
+166	Courtyard-Boston Waltham	14	0
+167	Cendant Motel	54	0
+168	Bed & Breakfast Of Greensburg	11	6
+169	Birmingham Emmaus	170	0
+170	Camp Crystal Lake	53	6
+171	Carolyn H.Bullock	104	0
+172	Birmingham Emmaus	82	3
+173	Outdoor Resorts Melbourne Bch	49	51
+174	Chris Hicks	107	40
+175	Colorado Trails Ranch	123	0
+176	Anaheim Online Hotel Group	140	33
+177	Eden Valley Guest Ranch	26	0
+178	Anaheim Online Hotel Group	22	0
+179	Heart Seed Inn & Spa	120	0
+180	Chris Hicks	150	6
+181	Inn At Vint Hill Farms	128	58
+182	All Seasons Resort	26	0
+183	Courtyard-Boston Waltham	138	4
+184	Med-Net Information Management Group	124	7
+185	Holiday Inn Corpus Christi	45	0
+186	Holiday Inn Express Hotel & Suites	163	25
+187	Lion Inn	139	8
+188	Best Western-Orlando E	79	52
+189	Cendant Motel	45	0
+190	Tower Motel	92	57
+191	Hummer House	32	0
+192	Chris Hicks	71	30
+193	All Seasons Resort	134	19
+194	Site Line	73	43
+195	Thousand Trails-naco	83	0
+196	Marion	140	26
+197	Village By The Sea	5	19
+198	Birmingham Emmaus	168	34
+199	Lion Inn	165	17
+200	Thousand Trails-naco	127	0
+201	Outdoor Resorts Melbourne Bch	85	36
+202	Best Western-Orlando E	156	18
+203	Eden Valley Guest Ranch	144	34
+204	Cupids Choice International Singles	53	0
+205	Irelands Rustic Lodge	105	0
+206	Newport City Motel	59	8
+207	Alexander Hamilton House	147	0
+208	Hanging Rock State Park	56	38
+209	Lion Inn	166	0
+210	Tower Motel	41	0
+211	Stoneleigh Hotel & Spa	37	26
+212	Museum Of The Southern Jewish	104	30
+213	Wooded Acres Campground	40	30
+214	Wawaloam Reservation Inc	64	0
+215	Lakehill: Shelties Of Distinction	141	7
+216	Lion Inn	29	0
+217	Bay Shore Inn	18	0
+218	Ebersole Environmental Edctn	24	9
+219	Mountain Views Bed & Breakfast	144	53
+220	Keywest Harbor Inn	80	0
+221	Cupids Choice International Singles	143	44
+222	Tower Motel	106	24
+223	Vegas Hotel Casinos Online	66	24
+224	Red Roof Inn-Milwaukee	77	0
+225	Med-Net Information Management Group	19	0
+226	Cupids Choice International Singles	137	0
+227	Christopher J.Jalbert	144	57
+228	MBI Benefits	27	0
+229	Tumble Hill Campground	26	9
+230	Bed & Breakfast Of Greensburg	110	52
+231	Angel Nest	54	0
+232	Eggery Inn	40	0
+233	Warwick Denver Hotel	43	8
+234	Tomlinson Black Realtors	73	15
+235	Dan Dee Cabins	4	49
+236	Camp Crystal Lake	11	0
+237	Bed & Breakfast Of Greensburg	29	42
+238	Lion Inn	168	1
+239	Crystal Lodge	61	19
+240	Wildhurst Campgrounds	149	44
+241	Evergreen Inn	25	50
+242	MBI Benefits	143	0
+243	Camp Crystal Lake	11	6
+244	Best Western-Orlando E	159	0
+245	Museum Of The Southern Jewish	4	0
+246	Hanging Rock State Park	145	38
+247	Wooded Acres Campground	16	47
+248	Wawaloam Reservation Inc	12	0
+249	Eggery Inn	17	58
+250	Cupids Choice International Singles	47	0
+251	Crystal Lodge	117	52
+252	Warwick Denver Hotel	168	53
+253	Hummer House	94	47
+254	Angel Nest	174	0
+255	Courtyard-Boston Waltham	146	0
+256	Hadlock Motel	156	11
+257	Amity Rose Bed & Breakfast	168	51
+258	Wildhurst Campgrounds	118	8
+259	Marion	5	0
+260	Coney Island Usa	46	30
+261	Dan Dee Cabins	138	0
+262	Mark McNutt	114	0
+263	Mark McNutt	171	23
+264	Red Roof Inn-Milwaukee	80	45
+265	Hummer House	24	0
+266	Hummer House	68	0
+267	Outdoor Resorts Melbourne Bch	105	0
+268	Bay Shore Inn	170	0
+269	Mike Schell Domains For Sale	44	0
+270	Marion	159	0
+271	Red Roof Inn-Milwaukee	169	0
+272	Manhattan Youth Recreation And Resources Inc	64	0
+273	Pelican Lake Campground Llc	103	31
+274	Outdoor Resorts Melbourne Bch	91	41
+275	Heart Seed Inn & Spa	134	0
+276	Camp Selah	131	0
+277	Courtyard-Alburquerque	26	28
+278	Inn At Vint Hill Farms	43	0
+279	Heart Seed Inn & Spa	77	0
+280	Alan Stitzer	73	20
+281	Don Trone	83	0
+282	Lakehill: Shelties Of Distinction	162	0
+283	Angler Motel	9	0
+284	Village By The Sea	2	35
+285	Manhattan Youth Recreation And Resources Inc	100	31
+286	MBI Benefits	155	1
+287	Alan Stitzer	84	58
+288	Camp Selah	41	0
+289	Happy Days Campground	73	43
+290	Best Western-Orlando E	87	14
+291	Gulf Stream Motel & Marina	126	0
+292	Don Trone	49	0
+293	Alan Stitzer	154	18
+294	Gulf Stream Motel & Marina	5	24
+295	All Seasons Resort	170	0
+296	Mark McNutt	82	0
+297	Greenwood Acres Campground	121	0
+298	Ebersole Environmental Edctn	142	0
+299	Museum Of The Southern Jewish	99	50
+300	Keywest Harbor Inn	108	0
+301	Cendant Motel	100	21
+302	Tomlinson Black Realtors	33	0
+303	Dan Dee Cabins	161	0
+304	Dan Dee Cabins	79	0
+305	Radisson-Denver North	39	26
+306	Museum Of The Southern Jewish	1	0
+307	Courtyard-Alburquerque	22	57
+308	Marion	39	13
+309	Tumble Hill Campground	105	29
+310	Lakehill: Shelties Of Distinction	91	44
+311	Ebersole Environmental Edctn	48	0
+312	Birmingham Emmaus	98	16
+313	Coney Island Usa	68	0
+314	Amity Rose Bed & Breakfast	134	56
+315	Camp Crystal Lake	94	0
+316	Alexander Hamilton House	159	0
+317	Chris Hicks	26	32
+318	Keywest Harbor Inn	36	55
+319	Darrah House	120	40
+320	Ebersole Environmental Edctn	85	24
+321	Anaheim Online Hotel Group	173	0
+322	Bay Shore Inn	111	0
+323	Vegas Hotel Casinos Online	3	20
+324	Red Roof Inn-Milwaukee	113	19
+325	Evergreen Inn	155	0
+326	Holiday Inn Express Hotel & Suites	168	0
+327	Mountain Inn & Suites	59	0
+328	Tumble Hill Campground	111	0
+329	Keywest Harbor Inn	28	19
+330	Lion Inn	131	0
+331	Greenwood Acres Campground	114	18
+332	Pelican Lake Campground Llc	151	4
+333	Darrah House	83	0
+334	Crystal Lodge	14	0
+335	Evergreen Inn	151	0
+336	Tower Motel	122	0
+337	Camp Selah	112	42
+338	Best Western-Orlando E	7	0
+339	Cendant Motel	81	4
+340	Irelands Rustic Lodge	9	0
+341	All Seasons Resort	40	27
+342	Inn At Vint Hill Farms	29	20
+343	Dan Dee Cabins	172	0
+344	Gulf Stream Motel & Marina	42	0
+345	Tomlinson Black Realtors	172	0
+346	Tomlinson Black Realtors	126	25
+347	Carolyn H.Bullock	103	0
+348	Holiday Inn Corpus Christi	147	10
+349	Greenwood Acres Campground	17	0
+350	Med-Net Information Management Group	112	0
+351	Angler Motel	174	0
+352	Courtyard-Boston Waltham	78	3
+353	Darrah House	51	0
+354	Hummer House	103	3
+355	Gulf Stream Motel & Marina	111	0
+356	Manhattan Youth Recreation And Resources Inc	105	0
+357	Tower Motel	168	21
+358	Angel Nest	137	0
+359	Village By The Sea	64	0
+360	Alan Stitzer	92	0
+361	Heart Seed Inn & Spa	130	40
+362	Darrah House	51	15
+363	Schooner Creek Resort	156	0
+364	Camp Selah	35	21
+365	Heart Seed Inn & Spa	29	0
+366	Crystal Lodge	154	0
+367	Site Line	6	6
+368	Darrah House	70	0
+369	Camp Selah	117	0
+370	Darrah House	18	50
+371	Hotel Elliott	153	0
+372	Museum Of The Southern Jewish	140	0
+373	Christopher J.Jalbert	151	0
+374	Evergreen Inn	168	0
+375	Bed & Breakfast Of Greensburg	1	55
+376	Wooded Acres Campground	66	16
+377	Darrah House	58	0
+378	Courtyard-Boston Waltham	158	0
+379	Mountain Views Bed & Breakfast	62	0
+380	Cupids Choice International Singles	27	50
+381	Marion	164	13
+382	Tower Motel	48	19
+383	Tower Motel	97	0
+384	Hadlock Motel	92	26
+385	Camp Crystal Lake	19	0
+386	Heart Seed Inn & Spa	17	20
+387	Hadlock Motel	119	0
+388	Camp Crystal Lake	121	0
+389	Coney Island Usa	32	0
+390	Alan Stitzer	114	49
+391	Crystal Lodge	12	0
+392	Hotel Elliott	134	44
+393	Gulf Stream Motel & Marina	128	13
+394	Cupids Choice International Singles	36	33
+395	Courtyard-Alburquerque	114	0
+396	Inn At Vint Hill Farms	39	0
+397	Angler Motel	78	0
+398	Keywest Harbor Inn	73	33
+399	Stanley Hotel	28	0
+400	Pocalla Springs Resort	159	0
+401	Bed & Breakfast Of Greensburg	18	51
+402	MBI Benefits	80	0
+403	Courtyard-Alburquerque	118	0
+404	Cendant Motel	17	0
+405	Red Roof Inn-Milwaukee	78	7
+406	Holiday Inn Express Hotel & Suites	137	46
+407	Amity Rose Bed & Breakfast	166	52
+408	Irelands Rustic Lodge	172	0
+409	Schooner Creek Resort	49	40
+410	All Seasons Resort	29	50
+411	Amity Rose Bed & Breakfast	156	0
+412	MBI Benefits	168	0
+413	Radisson-Denver North	117	17
+414	Mountain Views Bed & Breakfast	123	5
+415	Inn At Vint Hill Farms	151	0
+416	Hotel Elliott	147	23
+417	Mike Schell Domains For Sale	82	0
+418	Warwick Denver Hotel	98	3
+419	Irelands Rustic Lodge	116	37
+420	Crystal Lodge	130	16
+421	Friendship 7 Motel	28	46
+422	Hotel Elliott	73	41
+423	Mark McNutt	161	46
+424	Econo Lodge-East Port	73	0
+425	Darrah House	154	44
+426	Crystal Lodge	145	0
+427	Inn At Vint Hill Farms	126	6
+428	Wooded Acres Campground	86	0
+429	Hadlock Motel	80	48
+430	Angel Nest	53	0
+431	Courtyard-Alburquerque	109	0
+432	Courtyard-Alburquerque	33	0
+433	Carolyn H.Bullock	74	0
+434	Hanging Rock State Park	98	0
+435	Museum Of The Southern Jewish	134	53
+436	Outdoor Resorts Melbourne Bch	66	0
+437	Angler Motel	28	0
+438	Wildhurst Campgrounds	57	57
+439	Cendant Motel	58	0
+440	Museum Of The Southern Jewish	138	13
+441	Lakehill: Shelties Of Distinction	101	0
+442	Tomlinson Black Realtors	161	20
+443	Village By The Sea	39	48
+444	Amity Rose Bed & Breakfast	171	0
+445	Holiday Inn Corpus Christi	154	0
+446	Jessica Fore	74	0
+447	Coney Island Usa	115	54
+448	Vegas Hotel Casinos Online	56	0
+449	Jessica Fore	173	0
+450	Museum Of The Southern Jewish	30	0
+451	Keywest Harbor Inn	111	10
+452	Bay Shore Inn	126	52
+453	Hadlock Motel	84	19
+454	Stanley Hotel	147	0
+455	Camp Selah	107	0
+456	Irelands Rustic Lodge	87	14
+457	MBI Benefits	33	0
+458	Lakehill: Shelties Of Distinction	139	15
+459	Thousand Trails-naco	34	0
+460	Red Roof Inn-Milwaukee	157	6
+461	Holiday Inn Corpus Christi	170	0
+462	Pelican Lake Campground Llc	32	0
+463	Angel Nest	138	24
+464	Manhattan Youth Recreation And Resources Inc	124	0
+465	Lakehill: Shelties Of Distinction	127	0
+466	Bed & Breakfast Of Greensburg	87	55
+467	Gulf Stream Motel & Marina	87	0
+468	Newport City Motel	98	0
+469	Courtyard-Boston Waltham	24	34
+470	Stanley Hotel	87	0
+471	Hadlock Motel	17	0
+472	Birmingham Emmaus	162	0
+473	Econo Lodge-East Port	42	0
+474	Mountain Views Bed & Breakfast	78	16
+475	Lakehill: Shelties Of Distinction	127	54
+476	Holiday Inn Express Hotel & Suites	13	53
+477	Foothills Inn	10	0
+478	Greenwood Acres Campground	36	0
+479	Mountain Views Bed & Breakfast	38	4
+480	Carolyn H.Bullock	120	0
+481	Courtyard-Alburquerque	150	0
+482	Wildhurst Campgrounds	164	49
+483	Tumble Hill Campground	133	0
+484	Happy Days Campground	89	0
+485	Stoneleigh Hotel & Spa	10	0
+486	Cupids Choice International Singles	42	34
+487	Anaheim Online Hotel Group	30	49
+488	Museum Of The Southern Jewish	152	45
+489	Lion Inn	63	0
+490	Thousand Trails-naco	75	39
+491	Site Line	32	30
+492	Irelands Rustic Lodge	38	0
+493	Hadlock Motel	92	0
+494	Mountain Views Bed & Breakfast	87	33
+495	Jessica Fore	139	0
+496	Newport City Motel	142	0
+497	Holiday Inn Corpus Christi	89	0
+498	Vegas Hotel Casinos Online	21	0
+499	Heart Seed Inn & Spa	3	39
+500	Anaheim Online Hotel Group	34	3
+501	Bed & Breakfast Of Greensburg	130	0
+502	Manhattan Youth Recreation And Resources Inc	168	0
+503	Courtyard-Alburquerque	160	49
+504	Best Western-Trl Ldge & Suites	2	0
+505	Radisson-Denver North	171	54
+506	Hanging Rock State Park	133	0
+507	Mountain Inn & Suites	33	3
+508	Site Line	129	0
+509	Museum Of The Southern Jewish	2	0
+510	Newport City Motel	84	0
+511	Museum Of The Southern Jewish	150	0
+512	Mark McNutt	56	0
+513	Eden Valley Guest Ranch	101	0
+514	Pelican Lake Campground Llc	28	58
+515	Wooded Acres Campground	21	0
+516	Newport City Motel	83	33
+517	Gulf Stream Motel & Marina	154	8
+518	Angler Motel	126	53
+519	Don Trone	146	0
+520	Hummer House	103	48
+521	Wooded Acres Campground	45	0
+522	Hotel Elliott	88	11
+523	Courtyard-Boston Waltham	125	16
+524	Mark McNutt	61	0
+525	Best Western-Trl Ldge & Suites	134	28
+526	Tomlinson Black Realtors	46	6
+527	Wildhurst Campgrounds	173	47
+528	Holiday Inn Corpus Christi	50	17
+529	Keywest Harbor Inn	169	0
+530	Pelican Lake Campground Llc	28	17
+531	Newport City Motel	102	12
+532	Greenwood Acres Campground	88	37
+533	Courtyard-Boston Waltham	72	0
+534	Angler Motel	161	4
+535	Camp Selah	142	0
+536	Thousand Trails-naco	141	0
+537	Alexander Hamilton House	98	0
+538	Alexander Hamilton House	21	38
+539	Anaheim Online Hotel Group	80	0
+540	Wawaloam Reservation Inc	143	40
+541	Best Western-Trl Ldge & Suites	138	0
+542	Tomlinson Black Realtors	2	31
+543	Crystal Lodge	60	16
+544	Mountain Views Bed & Breakfast	74	0
+545	Marion	121	0
+546	Site Line	105	56
+547	Carolyn H.Bullock	12	40
+548	Courtyard-Alburquerque	75	50
+549	Birmingham Emmaus	70	0
+550	Birmingham Emmaus	106	31
+551	Happy Days Campground	7	0
+552	Cupids Choice International Singles	45	23
+553	Pocalla Springs Resort	132	0
+554	Camp Selah	144	0
+555	Inn At Vint Hill Farms	41	0
+556	Coney Island Usa	61	0
+557	Thousand Trails-naco	55	0
+558	Gulf Stream Motel & Marina	94	43
+559	Mark McNutt	91	0
+560	Angler Motel	148	0
+561	Angler Motel	4	31
+562	Tower Motel	90	0
+563	Coney Island Usa	160	23
+564	Lakehill: Shelties Of Distinction	161	0
+565	Mark McNutt	45	0
+566	Gulf Stream Motel & Marina	54	2
+567	Mountain Views Bed & Breakfast	104	55
+568	Irelands Rustic Lodge	142	56
+569	Vegas Hotel Casinos Online	128	35
+570	MBI Benefits	47	0
+571	Wawaloam Reservation Inc	111	0
+572	Pocalla Springs Resort	73	5
+573	Manhattan Youth Recreation And Resources Inc	56	52
+574	Vegas Hotel Casinos Online	26	19
+575	Camp Crystal Lake	153	0
+576	Best Western-Trl Ldge & Suites	75	0
+577	Hotel Elliott	108	0
+578	Newport City Motel	174	0
+579	Coney Island Usa	71	0
+580	Hotel Elliott	121	23
+581	Outdoor Resorts Melbourne Bch	7	35
+582	MBI Benefits	12	0
+583	Amity Rose Bed & Breakfast	51	54
+584	Hanging Rock State Park	43	0
+585	Greenwood Acres Campground	49	57
+586	Inn At Vint Hill Farms	30	0
+587	Bed & Breakfast Of Greensburg	164	0
+588	Lakehill: Shelties Of Distinction	73	0
+589	Wildhurst Campgrounds	58	0
+590	Angler Motel	142	23
+591	Crystal Lodge	136	0
+592	Chris Hicks	74	30
+593	Alexander Hamilton House	151	0
+594	Museum Of The Southern Jewish	165	2
+595	Happy Days Campground	125	0
+596	Wawaloam Reservation Inc	127	41
+597	Best Western-Trl Ldge & Suites	150	23
+598	Tower Motel	110	0
+599	Mountain Views Bed & Breakfast	27	0
+600	Evergreen Inn	113	0
+601	Econo Lodge-East Port	118	0
+602	Alexander Hamilton House	13	15
+603	Mountain Views Bed & Breakfast	34	0
+604	Tomlinson Black Realtors	39	0
+605	Courtyard-Alburquerque	36	0
+606	Mountain Views Bed & Breakfast	148	14
+607	Colorado Trails Ranch	74	0
+608	Tower Motel	27	0
+609	Irelands Rustic Lodge	124	27
+610	Mountain Views Bed & Breakfast	144	0
+611	Happy Days Campground	127	35
+612	Dan Dee Cabins	96	11
+613	Hanging Rock State Park	81	0
+614	Inn At Vint Hill Farms	50	17
+615	Cupids Choice International Singles	174	0
+616	Cendant Motel	138	41
+617	Hanging Rock State Park	106	29
+618	Site Line	84	19
+619	Keywest Harbor Inn	149	32
+620	Hotel Elliott	169	0
+621	Mike Schell Domains For Sale	166	46
+622	Holiday Inn Express Hotel & Suites	123	50
+623	Village By The Sea	163	0
+624	Tower Motel	152	38
+625	Alexander Hamilton House	38	0
+626	Mark McNutt	97	1
+627	Hotel Elliott	26	14
+628	Irelands Rustic Lodge	12	37
+629	Camp Selah	111	0
+630	Mike Schell Domains For Sale	3	21
+631	Mark McNutt	121	0
+632	Pelican Lake Campground Llc	151	58
+633	Best Western-Trl Ldge & Suites	161	30
+634	Med-Net Information Management Group	73	0
+635	Stoneleigh Hotel & Spa	174	9
+636	Wildhurst Campgrounds	73	0
+637	Tower Motel	115	0
+638	Eden Valley Guest Ranch	167	27
+639	Gulf Stream Motel & Marina	161	18
+640	Christopher J.Jalbert	123	0
+641	Hadlock Motel	55	39
+642	Anaheim Online Hotel Group	57	0
+643	All Seasons Resort	119	42
+644	Happy Days Campground	89	0
+645	Keywest Harbor Inn	162	0
+646	Courtyard-Boston Waltham	10	17
+647	Thousand Trails-naco	19	0
+648	Tomlinson Black Realtors	97	9
+649	Alan Stitzer	170	0
+650	Lion Inn	113	0
+651	Courtyard-Boston Waltham	168	9
+652	Amity Rose Bed & Breakfast	53	25
+653	Inn At Vint Hill Farms	25	0
+654	Lion Inn	28	0
+655	Econo Lodge-East Port	120	0
+656	Vegas Hotel Casinos Online	48	0
+657	Hummer House	41	18
+658	Birmingham Emmaus	154	10
+659	Hotel Elliott	90	58
+660	Courtyard-Alburquerque	54	0
+661	Lion Inn	60	58
+662	Mike Schell Domains For Sale	139	26
+663	Village By The Sea	38	0
+664	Christopher J.Jalbert	90	0
+665	Mountain Views Bed & Breakfast	104	23
+666	Hotel Elliott	38	0
+667	Gulf Stream Motel & Marina	18	50
+668	Schooner Creek Resort	152	16
+669	Hummer House	146	19
+670	Stanley Hotel	121	6
+671	Best Western-Orlando E	79	0
+672	Heart Seed Inn & Spa	110	0
+673	Holiday Inn Express Hotel & Suites	104	52
+674	Museum Of The Southern Jewish	29	9
+675	Angler Motel	55	44
+676	MBI Benefits	82	45
+677	Best Western-Trl Ldge & Suites	144	17
+678	Carolyn H.Bullock	161	33
+679	Newport City Motel	12	47
+680	Ebersole Environmental Edctn	21	0
+681	Red Roof Inn-Milwaukee	28	2
+682	Camp Selah	117	0
+683	Dan Dee Cabins	125	0
+684	Tower Motel	133	52
+685	Angel Nest	10	0
+686	MBI Benefits	122	3
+687	Happy Days Campground	95	30
+688	Manhattan Youth Recreation And Resources Inc	44	0
+689	Camp Selah	86	0
+690	Best Western-Orlando E	14	0
+691	Stanley Hotel	120	0
+692	Mike Schell Domains For Sale	160	0
+693	Chris Hicks	157	0
+694	Crystal Lodge	163	28
+695	Newport City Motel	86	39
+696	Lakehill: Shelties Of Distinction	89	0
+697	Wawaloam Reservation Inc	37	24
+698	Christopher J.Jalbert	123	0
+699	Pocalla Springs Resort	154	37
+700	Lakehill: Shelties Of Distinction	102	0
+701	Wildhurst Campgrounds	109	0
+702	Red Roof Inn-Milwaukee	21	0
+703	Lakehill: Shelties Of Distinction	97	50
+704	Don Trone	116	0
+705	Carolyn H.Bullock	1	41
+706	Angel Nest	139	51
+707	Inn At Vint Hill Farms	64	32
+708	Coney Island Usa	93	0
+709	Camp Crystal Lake	136	0
+710	Irelands Rustic Lodge	6	0
+711	Radisson-Denver North	51	0
+712	Coney Island Usa	126	29
+713	Angler Motel	35	0
+714	Tower Motel	10	29
+715	Hummer House	141	17
+716	Don Trone	129	28
+717	Bed & Breakfast Of Greensburg	112	0
+718	MBI Benefits	40	29
+719	Tower Motel	91	0
+720	Don Trone	85	37
+721	Anaheim Online Hotel Group	163	0
+722	Radisson-Denver North	18	0
+723	Darrah House	113	0
+724	Newport City Motel	171	53
+725	Crystal Lodge	34	0
+726	Mike Schell Domains For Sale	12	0
+727	Best Western-Orlando E	42	54
+728	Birmingham Emmaus	150	0
+729	Courtyard-Alburquerque	20	5
+730	Irelands Rustic Lodge	37	3
+731	Birmingham Emmaus	99	10
+732	Cupids Choice International Singles	92	45
+733	Red Roof Inn-Milwaukee	47	0
+734	Tumble Hill Campground	166	16
+735	Best Western-Trl Ldge & Suites	6	27
+736	Mark McNutt	148	53
+737	Courtyard-Boston Waltham	113	45
+738	MBI Benefits	36	52
+739	Med-Net Information Management Group	173	33
+740	Crystal Lodge	116	22
+741	Evergreen Inn	150	42
+742	Inn At Vint Hill Farms	110	0
+743	Pelican Lake Campground Llc	142	4
+744	Camp Crystal Lake	80	8
+745	Thousand Trails-naco	161	0
+746	Eden Valley Guest Ranch	20	0
+747	Holiday Inn Corpus Christi	170	57
+748	Best Western-Trl Ldge & Suites	72	0
+749	Wooded Acres Campground	94	0
+750	Anaheim Online Hotel Group	75	0
+751	Stanley Hotel	146	58
+752	Hadlock Motel	145	0
+753	Angel Nest	134	0
+754	Hummer House	19	0
+755	Museum Of The Southern Jewish	150	0
+756	Eden Valley Guest Ranch	51	24
+757	Manhattan Youth Recreation And Resources Inc	157	54
+758	Pelican Lake Campground Llc	88	0
+759	Don Trone	170	49
+760	Tumble Hill Campground	29	0
+761	Alan Stitzer	99	0
+762	Chris Hicks	8	15
+763	Heart Seed Inn & Spa	60	46
+764	Lakehill: Shelties Of Distinction	24	0
+765	Ebersole Environmental Edctn	139	0
+766	Mike Schell Domains For Sale	143	0
+767	Colorado Trails Ranch	156	16
+768	Eggery Inn	6	0
+769	Pocalla Springs Resort	32	0
+770	Hummer House	5	0
+771	Holiday Inn Express Hotel & Suites	56	0
+772	Chris Hicks	135	3
+773	Stoneleigh Hotel & Spa	111	0
+774	Tower Motel	119	40
+775	Lakehill: Shelties Of Distinction	93	0
+776	Wooded Acres Campground	27	48
+777	Econo Lodge-East Port	149	0
+778	Don Trone	5	0
+779	Lion Inn	28	0
+780	Holiday Inn Express Hotel & Suites	106	48
+781	Angler Motel	144	44
+782	Stoneleigh Hotel & Spa	123	23
+783	Happy Days Campground	172	0
+784	Warwick Denver Hotel	94	43
+785	Holiday Inn Express Hotel & Suites	88	0
+786	Site Line	142	9
+787	Evergreen Inn	119	47
+788	Alexander Hamilton House	92	0
+789	Outdoor Resorts Melbourne Bch	145	56
+790	Tumble Hill Campground	79	0
+791	Cendant Motel	56	0
+792	Carolyn H.Bullock	123	13
+793	Village By The Sea	124	0
+794	Site Line	166	25
+795	Schooner Creek Resort	153	1
+796	Angler Motel	107	6
+797	Thousand Trails-naco	127	1
+798	Colorado Trails Ranch	55	0
+799	Happy Days Campground	55	0
+800	Evergreen Inn	30	0
+801	Carolyn H.Bullock	96	10
+802	Anaheim Online Hotel Group	93	51
+803	Courtyard-Alburquerque	138	0
+804	Wawaloam Reservation Inc	86	0
+805	Bay Shore Inn	145	39
+806	Manhattan Youth Recreation And Resources Inc	64	0
+807	Dan Dee Cabins	20	7
+808	Wooded Acres Campground	66	0
+809	Tomlinson Black Realtors	163	11
+810	Best Western-Orlando E	144	0
+811	Cendant Motel	19	0
+812	Site Line	168	0
+813	Pocalla Springs Resort	139	0
+814	Courtyard-Boston Waltham	162	24
+815	Alan Stitzer	118	14
+816	Angel Nest	74	33
+817	Pocalla Springs Resort	15	0
+818	Vegas Hotel Casinos Online	92	51
+819	Courtyard-Boston Waltham	61	0
+820	Marion	35	12
+821	Outdoor Resorts Melbourne Bch	148	0
+822	Alexander Hamilton House	149	32
+823	Heart Seed Inn & Spa	158	20
+824	Best Western-Orlando E	57	41
+825	Anaheim Online Hotel Group	144	0
+826	Marion	122	0
+827	Mike Schell Domains For Sale	158	0
+828	Mark McNutt	47	7
+829	Schooner Creek Resort	154	0
+830	Bay Shore Inn	70	11
+831	MBI Benefits	76	0
+832	Pelican Lake Campground Llc	111	50
+833	Warwick Denver Hotel	8	57
+834	Courtyard-Boston Waltham	163	47
+835	Bay Shore Inn	14	50
+836	Manhattan Youth Recreation And Resources Inc	134	0
+837	Birmingham Emmaus	154	0
+838	Chris Hicks	144	16
+839	Keywest Harbor Inn	67	29
+840	Angler Motel	169	0
+841	Carolyn H.Bullock	138	51
+842	Mountain Inn & Suites	56	47
+843	Greenwood Acres Campground	7	7
+844	Foothills Inn	138	23
+845	Angler Motel	82	42
+846	Wawaloam Reservation Inc	148	0
+847	Happy Days Campground	130	0
+848	Amity Rose Bed & Breakfast	144	24
+849	Tomlinson Black Realtors	161	58
+850	Manhattan Youth Recreation And Resources Inc	3	56
+851	Evergreen Inn	161	0
+852	Coney Island Usa	51	0
+853	Vegas Hotel Casinos Online	173	15
+854	Christopher J.Jalbert	83	0
+855	All Seasons Resort	108	0
+856	Irelands Rustic Lodge	173	0
+857	Warwick Denver Hotel	158	57
+858	Heart Seed Inn & Spa	50	37
+859	Lion Inn	172	0
+860	Mark McNutt	72	0
+861	Heart Seed Inn & Spa	15	0
+862	Village By The Sea	25	22
+863	Best Western-Orlando E	102	0
+864	Darrah House	56	14
+865	Happy Days Campground	16	4
+866	Hummer House	88	23
+867	Courtyard-Boston Waltham	132	14
+868	Econo Lodge-East Port	130	31
+869	Colorado Trails Ranch	47	40
+870	Best Western-Trl Ldge & Suites	117	33
+871	Darrah House	87	0
+872	Radisson-Denver North	102	30
+873	Holiday Inn Express Hotel & Suites	148	0
+874	Camp Crystal Lake	161	10
+875	Lakehill: Shelties Of Distinction	153	4
+876	Vegas Hotel Casinos Online	52	0
+877	Tomlinson Black Realtors	133	7
+878	Inn At Vint Hill Farms	120	0
+879	Heart Seed Inn & Spa	76	0
+880	Dan Dee Cabins	152	0
+881	Mountain Inn & Suites	162	37
+882	Bay Shore Inn	96	21
+883	Cupids Choice International Singles	155	38
+884	Wawaloam Reservation Inc	85	20
+885	Courtyard-Alburquerque	113	0
+886	Wildhurst Campgrounds	50	0
+887	Camp Selah	51	32
+888	Heart Seed Inn & Spa	104	20
+889	Stanley Hotel	120	0
+890	Foothills Inn	9	49
+891	Jessica Fore	99	27
+892	Pelican Lake Campground Llc	21	0
+893	Anaheim Online Hotel Group	90	0
+894	Keywest Harbor Inn	151	13
+895	Econo Lodge-East Port	115	30
+896	Radisson-Denver North	48	0
+897	Inn At Vint Hill Farms	44	28
+898	Cendant Motel	26	0
+899	Angel Nest	114	28
+900	Vegas Hotel Casinos Online	33	33
+901	Hanging Rock State Park	49	34
+902	Cupids Choice International Singles	171	0
+903	Angel Nest	87	0
+904	Irelands Rustic Lodge	89	0
+905	Amity Rose Bed & Breakfast	128	0
+906	All Seasons Resort	65	0
+907	Best Western-Orlando E	144	0
+908	Wooded Acres Campground	76	0
+909	Angel Nest	174	56
+910	Holiday Inn Express Hotel & Suites	8	0
+911	Vegas Hotel Casinos Online	97	0
+912	Greenwood Acres Campground	20	53
+913	Mark McNutt	70	0
+914	Greenwood Acres Campground	130	0
+915	Wooded Acres Campground	48	49
+916	Alan Stitzer	42	17
+917	Dan Dee Cabins	152	10
+918	Bed & Breakfast Of Greensburg	91	56
+919	Keywest Harbor Inn	75	0
+920	Courtyard-Boston Waltham	36	0
+921	Foothills Inn	56	13
+922	Angel Nest	67	0
+923	Hotel Elliott	97	30
+924	Dan Dee Cabins	166	0
+925	Anaheim Online Hotel Group	87	34
+926	Gulf Stream Motel & Marina	104	0
+927	Inn At Vint Hill Farms	57	14
+928	Keywest Harbor Inn	159	35
+929	Heart Seed Inn & Spa	102	9
+930	Friendship 7 Motel	99	0
+931	Schooner Creek Resort	83	0
+932	Newport City Motel	10	0
+933	MBI Benefits	22	0
+934	Hadlock Motel	158	34
+935	Evergreen Inn	131	21
+936	Med-Net Information Management Group	3	3
+937	Christopher J.Jalbert	56	0
+938	Courtyard-Alburquerque	67	1
+939	Bed & Breakfast Of Greensburg	46	28
+940	Lakehill: Shelties Of Distinction	117	0
+941	Hummer House	34	0
+942	Keywest Harbor Inn	78	0
+943	Ebersole Environmental Edctn	129	4
+944	Mountain Views Bed & Breakfast	143	0
+945	Greenwood Acres Campground	15	0
+946	Alexander Hamilton House	81	1
+947	Pelican Lake Campground Llc	83	50
+948	Wooded Acres Campground	3	0
+949	Museum Of The Southern Jewish	62	0
+950	Heart Seed Inn & Spa	39	0
+951	Eggery Inn	125	0
+952	Tomlinson Black Realtors	52	22
+953	Vegas Hotel Casinos Online	99	53
+954	Village By The Sea	168	0
+955	Amity Rose Bed & Breakfast	173	51
+956	Dan Dee Cabins	81	0
+957	Newport City Motel	148	0
+958	Thousand Trails-naco	158	40
+959	Stoneleigh Hotel & Spa	112	50
+960	Manhattan Youth Recreation And Resources Inc	123	0
+961	Darrah House	55	0
+962	Pocalla Springs Resort	72	10
+963	Newport City Motel	55	0
+964	Irelands Rustic Lodge	170	43
+965	Mike Schell Domains For Sale	34	0
+966	Schooner Creek Resort	23	15
+967	Cupids Choice International Singles	76	0
+968	Friendship 7 Motel	27	0
+969	Newport City Motel	104	0
+970	All Seasons Resort	107	34
+971	Bed & Breakfast Of Greensburg	30	0
+972	Bay Shore Inn	78	32
+973	Crystal Lodge	96	25
+974	Hotel Elliott	104	0
+975	Warwick Denver Hotel	11	29
+976	Hotel Elliott	63	5
+977	Stoneleigh Hotel & Spa	144	52
+978	Village By The Sea	128	0
+979	Hummer House	71	13
+980	Best Western-Trl Ldge & Suites	51	0
+981	Ebersole Environmental Edctn	82	46
+982	Village By The Sea	20	0
+983	Wooded Acres Campground	122	49
+984	Mark McNutt	66	51
+985	Thousand Trails-naco	87	0
+986	Pelican Lake Campground Llc	74	46
+987	Wildhurst Campgrounds	147	37
+988	Don Trone	126	47
+989	Carolyn H.Bullock	63	0
+990	Heart Seed Inn & Spa	134	0
+991	Eggery Inn	126	30
+992	MBI Benefits	133	0
+993	Warwick Denver Hotel	41	0
+994	Cupids Choice International Singles	50	0
+995	Happy Days Campground	2	28
+996	Wooded Acres Campground	154	0
+997	Happy Days Campground	1	58
+998	Warwick Denver Hotel	152	0
+999	Cendant Motel	57	28
+1000	Angler Motel	138	0

@@ -1,0 +1,43 @@
+
+CREATE TABLE Guests
+(
+	Id INT NOT NULL,
+	FirstName VARCHAR (60) NOT NULL,
+	LastName VARCHAR (60) NOT NULL,
+	Phone CHAR (16)
+);
+CREATE TABLE Rooms
+(
+	Id INT NOT NULL,
+	Cost MONEY NOT NULL,
+	HotelId INT NOT NULL
+);
+
+CREATE TABLE Bookings
+(
+	Id INT NOT NULL,
+	GuestId INT NOT NULL,
+	RoomId INT NOT NULL,
+	StartDate DATE NOT NULL,
+	FinishDate DATE NOT NULL
+);
+
+CREATE TABLE Hotels
+(
+	Id INT NOT NULL,
+	HotelName VARCHAR (60) NOT NULL,
+	CityId INT NOT NULL,
+	CompanyId INT NULL
+);
+
+CREATE TABLE Companies
+(
+	Id INT NOT NULL,
+	CompanyName VARCHAR (60) NOT NULL
+);
+
+CREATE TABLE Cities
+(
+	Id INT NOT NULL,
+	CityName VARCHAR (60) NOT NULL
+);

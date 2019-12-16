@@ -1,0 +1,58 @@
+1	AC Hotels
+2	Aldemar Hotels & Spa
+3	Aloft Hotels
+4	Alrosa Hotels
+5	B&G Hotels - Resorts
+6	Barcelo
+7	Barut Hotels
+8	Best Western
+9	Blau Hotels & Resorts
+10	Crystal Hotels
+11	Domina
+12	Four Points
+13	Four Seasons Hotels and Resorts
+14	Gloria Hotels & Resorts
+15	Golden Tulip
+16	Grecotel
+17	H10 Hotels
+18	Hilton Hotels
+19	Holiday Inn
+20	Hoteis Real
+21	Hyatt
+22	Iberostar Hotels & Resorts
+23	Iberotel Hotels & Resorts
+24	Ibis Hotel
+25	IFA Hotels & Resorts
+26	InterContinental Hotels Group
+27	Jumeirah
+28	Kempinski
+29	Le Meridien
+30	LOPESAN Hotels & Resorts
+31	Maritim
+32	Marriott
+33	Mitsis
+34	NH Hotels
+35	Occidental Hotels & Resorts
+36	Orient-Express Hotels, Trains & Cruises
+37	Papillon Hotels Resorts & SPA
+38	PortAventura
+39	Pyramisa Hotels & Cruises
+40	Radisson Hotels & Resorts
+41	Ramada
+42	Reef Oasis Hotels & Resorts
+43	Ritz Carlton
+44	Riu Hotels & Resorts
+45	Rixos
+46	Sani
+47	Shangri-La
+48	Sheraton
+49	Sofitel
+50	Sokos
+51	SolMelia Hotels & Resorts
+52	St Regis
+53	Starwood Hotels & Resorts
+54	Steigenberger Hotels and Resorts
+55	The Luxury Collection
+56	Vincci Hoteles
+57	W Hotels
+58	Westin Hotels & Resorts
