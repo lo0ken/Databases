@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "hotelname": {
+      "type": "string"
+    },
+    "cityid": {
+      "type": "integer"
+    },
+    "companyid": {
+      "type": "null"
+    }
+  },
+  "required": [
+    "id",
+    "hotelname",
+    "cityid",
+    "companyid"
+  ]
+}
