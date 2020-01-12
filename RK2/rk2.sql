@@ -87,6 +87,22 @@ select *
 from Clinics C
 where C.buildYear = '1993';
 
+-- Переписывание: Найти предмет с рейтингом больше 4
+select *
+from Subject S
+where S.rating > 4;
+
+-- Переписывание: Посчитать среднее количество числов предметов
+select id, AVG(cntHours)
+from Subjects S
+
+-- Переписывание: Вставить во временную таблицу Преподователь - Кафедра
+select T.fio, K.name
+into TEMP TeacherKafedra
+from Teachers T
+inner join Kafedra K
+on T.kafId = K.id
+
 -- Найти количество вакцин всех типов
 select *, count(Vaccine_id)
 over(partition by Vaccine_id)
